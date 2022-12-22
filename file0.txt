@@ -4,21 +4,3 @@ else
 else 
 else
 
-if
-
-sfv
-else 
-
-if
-
-if 
-
-
-else 
-
-
-
-if 
-
-
-else
