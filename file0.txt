@@ -2,7 +2,9 @@
 
 
 int main(){
-
+    int32 S32_VAR;
+    int16 S16_VAR;
+    
  
     
 }
