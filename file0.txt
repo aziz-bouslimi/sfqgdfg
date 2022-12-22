@@ -1,9 +1,9 @@
-else
-else
-fgdjdfj
-else 
-else 
-else
-fqsdgqdsdedezrgze
-frfrfr
-elsedfsgdf
+#include <stdio.h>
+
+
+int main(){
+
+    int32 S32_VAR;
+    int16 S16_VAR;
+    
+}
