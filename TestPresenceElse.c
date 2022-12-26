@@ -5,7 +5,7 @@
 int main(){
  
   
-//if () {
+if () {
     
 
 
@@ -15,6 +15,6 @@ int main(){
 
 
 
-//else 
+else 
 
 {}
