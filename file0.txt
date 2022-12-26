@@ -7,14 +7,17 @@ int main(){
 
 if () {
 
-if
+
 
 }
  
- 
-else   {
-
+ else
+if 
 if
+if
+  {
+
+
 
 }
     
