@@ -3,13 +3,18 @@
 
 
 int main(){
-    int32 S32_VAR;
- if 
-if 
-if 
-if 
-if
-if 
  
+
+if () {
+
+
+}
+
+
+else   {
+
+
+
+}
     
 }
